@@ -13,7 +13,7 @@ license = "MIT"
 [dependencies]
 rayon = "1.5.3"
 rand = "0.8.5"
-default-net = {git = "https://github.com/quentinvedrenne/default-net.git", branch = "main"}
+default-net = {git = "https://github.com/edamametechnologies/default-net.git", branch = "main"}
 pnet_packet = "0.31.0"
 pnet_datalink = "0.31.0"
 socket2 = { version = "0.4.4", features = ["all"] }
